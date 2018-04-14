@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a master student majoring in computer science at Purdue University.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I love coding. I also love playing video games and watch people playing games. Currently my favourite games are Nintendo games Super Mario Odyssey and Legend of Zelda. I also love doing almost all kinds of exercises except walking on treadmills.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+xinglATpurdue.edu
